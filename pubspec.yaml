@@ -6,6 +6,9 @@ authors:
   - Matan Lurey <matanl@google.com>
 homepage: https://github.com/matanlurey/sdk.dart
 
+environment:
+  sdk: ">=1.8.0 <2.0.0"
+
 dependencies:
   path: '^1.4.1'
   pub_semver: '^1.3.2'
